@@ -1,1 +1,14 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - LICENSE.md
+  - ABOUT.md
+  - INTRODUCTION.md
+  # - CONTRIBUTING.md
+  # - ISSUE_TEMPLATE.md
+  # - PULL_REQUEST_TEMPLATE.md
