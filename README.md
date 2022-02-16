@@ -1,3 +1,7 @@
+## Introduction
+
+This little guide demonstrates how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mariodeckers/superninja/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
